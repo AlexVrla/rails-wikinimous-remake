@@ -1,0 +1,19 @@
+// Place all the styles related to the Articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+body {
+}
+
+.article-header {
+  list-style: none;
+  text-decoration: none;
+}
+.container {
+  background-color: rgb(238, 237, 237);
+  display: flex;
+  justify-content: space-between;
+}
+
+.articles-list {
+  margin-left: 20vw;
+}
